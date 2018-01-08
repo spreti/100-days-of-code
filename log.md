@@ -1,30 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Jan 8th,2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I started Javascript today, and coded my first ever script "Hello World" as an alert on one of my practice sites I had coded locally in the past via Adobe Brackets. I also completed html5 and CSS challenges in freecodecamp. Although I already have prior self taught knowledge of html5 as well as CSS, I figured it best to complete the challenges in free code camp anyways in the case that theres some new information in there for me. I plan to work ahead as so that my 100 days of code challenge more accurately represents my knowledge base (meaning what will be reflected in this log will soon be more coding challenges for Javascript and eventually Jquery as these two languages are what I am currently learning) 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Its my first day of Javascript coding.Simple and beginner as it may be I ran my first script it, and it worked! I also spent a total of 5 hours studying specifically Javascript today.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. https://www.freecodecamp.org/spreti 

@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+### Day 3: Jan 10th,2018
+
+**Today's Progress**: I completed about 20 bootstrap challenges today through free code camp. Wasn't I just saying that I needed more practice with forms and buttons?
+
+**Thoughts** So turns out Bootstrap is not so scary. As well my past two days of "thoughts comments" seem a little silly in hindsight, but probably not as silly as the idea that I wasn't planning on putting too much effort into learning frameworks ... which I will openly admit that I didn't realize thats what bootstrap was. Furthermore, I heard on a coding podcast not so long ago an opinionated guy talk about the overuse of frameworks in the coding community and had decided that I would not be learning them as I strive to learn the "real" way of doing things. Anyways my point is, It was small potatoes in comparsion to teaching myself viewport units, and now I have the knowledge of manually coding a responsive website ( I mean to the extent that I will get with html and css) and now I've been exposed to the quick way. ie. bootstrap.  Zig zagged learning is a real thing, especially when you're self taught.
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+
 
 ### Day 2: Jan 9th,2018
 

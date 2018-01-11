@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+### Day 4: Jan 11th,2018
+
+**Today's Progress**: Today I completed the remaining Bootstrap challenges on Freecode Camp as well as the JQuery challenges ending at challenge number 110 in my map. 
+
+**Thoughts** Im currently really loving web development! While it has its ups and downs as with anything, I feel that I've learned more in the past 3 months than in my last year, and while I had intended to learn Javascript prior to taking on anything else the freecode camp map took me elsewhere (totally not a bad thing). Confident wouldn't be the word I would use to describe my knowledge base of JQuery, as similar to my feelings towards Bootstrap, It also wasn't as scary as I thought it'd be but I do feel like I need a lot more practice and exposure to functions- Off to study some more! 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+
 ### Day 3: Jan 10th,2018
 
 **Today's Progress**: I completed about 20 bootstrap challenges today through free code camp. Wasn't I just saying that I needed more practice with forms and buttons?

@@ -1,4 +1,24 @@
 # 100 Days Of Code - Log
+### Day 6: Jan 13th,2018
+
+**Today's Progress**: Did some more work today on my Tribute page, about an hour and a half....Hey its Saturday :)
+
+**Thoughts** I still feel I need to gain more familiarity with Bootstrap, Im still struggling with dimmensioning especially for grids written with HTML and CSS. I did refer to gridbyexample.com which I find to be a fantastic resource, but I am still running into snags. I am hoping to finailze my tribute page tomorrow. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/opywPV
+
+### Day 5: Jan 12th,2018
+
+**Today's Progress**: I could have sworn I updated this yesterday- maybe I forgot to commit changes? Anywho, Began my Tribute page for FCC through Codepen. Ran into a lot of snags in overanalyzing whether or not to use Bootstrap or to use HTML and CSS especially in the Grid area. 
+
+**Thoughts** I need more Bootstrap practice!! I feel like I'm really overcomplicating things with trying to mix CSS as well as Bootstrap. I also need to revisit the natural flow of a webpage. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/opywPV
+
 ### Day 4: Jan 11th,2018
 
 **Today's Progress**: Today I completed the remaining Bootstrap challenges on Freecode Camp as well as the JQuery challenges ending at challenge number 110 in my map. 

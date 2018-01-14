@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
-### Day 6: Jan 13th,2018
+### Day 7: Jan 14th,2018
+
+**Today's Progress**: My Tribute page is looking much more like what I picture in my mind! I took some time to go over a module in pluralsight today prior to working on the page, I think my understanding of the Bootstrap grid is much more concrete than in prior days and that alone helped to negate a lot of frustration with alignment and layout. 
+**Thoughts** Again- still feeling like I need more time with Bootstrap, although I will say that I am enjoying what I have so far been able to learn and put to practice. Also I know that I am still overcomplicating things. I ran into a snag that took me almost 45 minutes wrap my head around- getting my header image to fill the width of the .container-fluid. My solution came through trial and error and re-running my code (erg) It's still not what I want it to be, but I think the rest of the space may be due to flow as I do not have any content yet in my aside column? I'll be taking this question to the 100 days slack board as I'm stumped. Anyways the closest I got to seeing the visual result of what I imagined was by removing a lot of my CSS. Like I said Im overcomplicating. So, the Tribute page did not get finished today, but it's about the progress right?
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/opywPV
 
 **Today's Progress**: Did some more work today on my Tribute page, about an hour and a half....Hey its Saturday :)
 

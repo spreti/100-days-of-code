@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 8: Jan 15th, 2018
+
+**Today's Progress**: So I definitely am not done with my tribute page, but I did get quite a bit more practice today with bootstrap! My hour of code went as follows: type code, run code, erase code:repeat. 
+**Thoughts**: Still frustruated with alignment and layout as it's not quite what I want. I know I'm being knit-picky buuuut  errrggg. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/opywPV
 ### Day 7: Jan 14th,2018
 
 **Today's Progress**: My Tribute page is looking much more like what I picture in my mind! I took some time to go over a module in pluralsight today prior to working on the page, I think my understanding of the Bootstrap grid is much more concrete than in prior days and that alone helped to negate a lot of frustration with alignment and layout. 

@@ -1,4 +1,14 @@
 # 100 Days Of Code - Log
+### Day 9: Jan 16th, 2018
+
+**Today's Progress**: Finished with my Tribute page!! While I think I could go another 18 years of trying things out, it is sufficient for what I envisioned. 
+**Thoughts**: I actually ended up removing alot of my CSS/ Erased and rewrote quite a bit of code. As well I decided not to work with the bootstrap grid as I was running into so many snags there. My tribute page is not near as responsive as I would like it to be however I did format the layout with percentages and as well tried to make sure all widths were the same in regards to imagimg as to provide a clean vertical line. 
+
+I need more work with div and layouts. I'll be practicing this as well as continuing to build up my bootstrap grid skills in the next few days. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/opywPV
 ### Day 8: Jan 15th, 2018
 
 **Today's Progress**: So I definitely am not done with my tribute page, but I did get quite a bit more practice today with bootstrap! My hour of code went as follows: type code, run code, erase code:repeat. 

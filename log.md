@@ -3,8 +3,15 @@
 ### Day 10: Jan 17th, 2018
 
 **Today's Progress**: Began my personal portfolio page today- Hooray! 
-**Thoughts**: oh the endless ideas! - spending the rest of my day getting more familiar with bootstrap grids- I havent given up on this! 
+**Thoughts**: oh the endless ideas! - spending the rest of my day getting more familiar with bootstrap grids- I havent given up on this! Running into snags getting my columns to float so for example:
 
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">col-md-4</div>
+    <div class="col-md-8">col-md-8</div>
+         </div>
+  </div>
+codepen has both col-md-4 as well as col-md-8 display as each their own row versus floating together in one row. My CSS has both their height the same and no obstructing attributes like specific widths. erg. 
 **Link(s) to work**
 1. https://www.freecodecamp.org/spreti 
 2.https://codepen.io/SPreti/pen/opywPV

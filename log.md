@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+
+### Day 10: Jan 17th, 2018
+
+**Today's Progress**: Began my personal portfolio page today- Hooray! 
+**Thoughts**: oh the endless ideas! - spending the rest of my day getting more familiar with bootstrap grids- I havent given up on this! 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/opywPV
 ### Day 9: Jan 16th, 2018
 
 **Today's Progress**: Finished with my Tribute page!! While I think I could go another 18 years of trying things out, it is sufficient for what I envisioned. 

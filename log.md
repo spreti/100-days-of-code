@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 10: Jan 17th, 2018
+### Day 11: Jan 18th, 2018
+
+**Today's Progress**: Erased and restarted my portfolio page again today :) 
+**Thoughts**: So I figured out what was happening with bootstrap. Turns out in codepen you need to enable bootstrap per new pen you begin. As I was looking at the new pen I had seen recently added and seen both boostrap 3 and 4 listed, so I assumed they were enabled. They were not. :| Although silver lining swallowing that silly mistake, did 1) get me familiar with the bootstrap grid system, and 2)is much easier to digest than the idea of me not understanding bootstrap. Whomp whomp whomp. 
+
+So today I made a boostrap layout of my personal portfolio project that I will now begin to insert information into. YAY! 
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/opywPV
 
 **Today's Progress**: Began my personal portfolio page today- Hooray! 
 **Thoughts**: oh the endless ideas! - spending the rest of my day getting more familiar with bootstrap grids- I havent given up on this! Running into snags getting my columns to float so for example:

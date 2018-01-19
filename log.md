@@ -2,15 +2,19 @@
 
 ### Day 12: Jan 19th, 2018
 
-**Today's Progress**: 
-**Thoughts**:  
+**Today's Progress**: Feeling so great about my portfolio page, and so great about coding! 
+**Thoughts**: So I changed all of my containers to fluid containers for responsiveness. I think I've really got the hang of this grid system. Also coded a fixed image as to mimic a parallax scroll- it's not the same thing, and I know that but visually it's pretty fantastic and a first for me (yay!!), that and I'm really digging it. Drawing my idea out yesterday old school style with pen and paper helped me immensely, as mentioned yesterday - and I did edit my post from yesterday to include my process - color blocking and creating generic row names like row one and row two helps soo much as well as the comments and text information placeholders like image with white text overlay here or thumnail of project here. I left off at the social media icons part of my portfolio but thus far everything else I've coded is 100% responsive and stacks wonderfully :D (DOUBLE YAY!) 
+
+Maybe its the coffee- Did I mention I'm feeling so optimistic about this porfolio project! 
+
+
 **Link(s) to work**
 1. https://www.freecodecamp.org/spreti 
 2.https://codepen.io/SPreti/pen/Eodqze
-3.https://codepen.io/SPreti/pen/ZvmbXE
+
 ### Day 11: Jan 18th, 2018
 
-**Today's Progress**: Erased and restarted my portfolio page again today :) 
+**Today's Progress**: Erased and restarted my portfolio page again today :) blocked everything out and also made sure to put some detailed notes/comments in as to what was what - this really helps me with div end tags and kind of just to keep track, I also color coded/blocked as so all large images or blocks of content are green, images red, text blue. etc. 
 **Thoughts**: So I figured out what was happening with bootstrap. Turns out in codepen you need to enable bootstrap per new pen you begin. As I was looking at the new pen I had seen recently added and seen both boostrap 3 and 4 listed, so I assumed they were enabled. They were not. :| Although silver lining swallowing that silly mistake, did 1) get me familiar with the bootstrap grid system, and 2)is much easier to digest than the idea of me not understanding bootstrap. Whomp whomp whomp. 
 
 So today I made a boostrap layout of my personal portfolio project that I will now begin to insert information into. YAY! - I also did some boostrap grid practice. 

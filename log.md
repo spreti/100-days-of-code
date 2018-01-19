@@ -1,14 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 12: Jan 19th, 2018
+
+**Today's Progress**: 
+**Thoughts**:  
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/Eodqze
+3.https://codepen.io/SPreti/pen/ZvmbXE
 ### Day 11: Jan 18th, 2018
 
 **Today's Progress**: Erased and restarted my portfolio page again today :) 
 **Thoughts**: So I figured out what was happening with bootstrap. Turns out in codepen you need to enable bootstrap per new pen you begin. As I was looking at the new pen I had seen recently added and seen both boostrap 3 and 4 listed, so I assumed they were enabled. They were not. :| Although silver lining swallowing that silly mistake, did 1) get me familiar with the bootstrap grid system, and 2)is much easier to digest than the idea of me not understanding bootstrap. Whomp whomp whomp. 
 
-So today I made a boostrap layout of my personal portfolio project that I will now begin to insert information into. YAY! 
+So today I made a boostrap layout of my personal portfolio project that I will now begin to insert information into. YAY! - I also did some boostrap grid practice. 
 **Link(s) to work**
 1. https://www.freecodecamp.org/spreti 
 2.https://codepen.io/SPreti/pen/opywPV
+3.https://codepen.io/SPreti/pen/ZvmbXE
 
 **Today's Progress**: Began my personal portfolio page today- Hooray! 
 **Thoughts**: oh the endless ideas! - spending the rest of my day getting more familiar with bootstrap grids- I havent given up on this! Running into snags getting my columns to float so for example:
@@ -22,7 +31,8 @@ So today I made a boostrap layout of my personal portfolio project that I will n
 codepen has both col-md-4 as well as col-md-8 display as each their own row versus floating together in one row. My CSS has both their height the same and no obstructing attributes like specific widths. erg. 
 **Link(s) to work**
 1. https://www.freecodecamp.org/spreti 
-2.https://codepen.io/SPreti/pen/opywPV
+2.https://codepen.io/SPreti/pen/Eodqze
+
 ### Day 9: Jan 16th, 2018
 
 **Today's Progress**: Finished with my Tribute page!! While I think I could go another 18 years of trying things out, it is sufficient for what I envisioned. 

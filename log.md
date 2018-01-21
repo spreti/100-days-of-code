@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 14: Jan 21st, 2018
+
+**Today's Progress**: Worked on porftfolio project.
+**Thoughts**: more re-arranging code today, l'll need to spend some time looking at break points tomorrow, as I don't love the way things are stacking as well my margins are off only slightly with the background pictures as well as the foreground images. It's not bad if my viewport only shows so many but in the spirit of true responsiveness. I'd like the images to align no matter what.  I also coded my navigation bar that links to various sections of the webpage through div ids which was an easy manuver that only invovled me swapping out the previous "row one and row two" div id's that I had as placeholders (whoop organization!) 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/Eodqze
 ### Day 13: Jan 20th, 2018
 
 **Today's Progress**: Worked on my porfolio project again today! 

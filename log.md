@@ -1,4 +1,14 @@
 # 100 Days Of Code - Log
+### Day 13: Jan 20th, 2018
+
+**Today's Progress**: Worked on my porfolio project again today! 
+**Thoughts**: a little re-arranging and knit picking today, But I think I'm on track to finish this project by the end of day Tuesday. I definitley will need to take a look at the responsiveness of the site, not so much if images are scaling but where things are stacking. As well I'll need to add in a navigation bar tomorrow  and I'd like to challenge myself to add at least some type of animation in.   
+
+Still feeling great about my portfolio project asthetic. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/Eodqze
 
 ### Day 12: Jan 19th, 2018
 

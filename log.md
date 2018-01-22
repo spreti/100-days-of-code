@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 15: Jan 22nd, 2018
+
+**Today's Progress**: Portfolio again today!
+**Thoughts**: I did a lot of tinkering today. Worked on a text overlay for my header image. Also tinkered with overflow quite a bit as my columns weren't particularily stacking neatly. Added a couple of headers as well and some color :) and found a solution to getting my navigation bar responsive as to match the rest of the site! 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/Eodqze
 ### Day 14: Jan 21st, 2018
 
 **Today's Progress**: Worked on porftfolio project.

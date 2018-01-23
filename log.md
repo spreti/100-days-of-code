@@ -1,4 +1,15 @@
 # 100 Days Of Code - Log
+### Day 16: Jan 23rd, 2018
+
+**Today's Progress**: I finished my porfolio today with a responsive contact form in my footer. I also spent quite some time on github just learning the lay of the land and committed not one but two contributions! Lastly and probably on par with level of excitment for my two github contributions - I STARTED JAVASCRIPT TODAY!(in Free Code Camp)
+**Thoughts**: Contributing to open source is scary! But if there is anything I've learned thus far about web development and or open source contributing from all of the articles I've read and podcasts I've listened to is that you just gotta do it. Pick somewhere and start. SO - that being said, I contribute a book list annnd fixed typos in a READ ME -some real coding knowledge application ;D like I said, gotta start somewhere. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/full/WdmqeG/
+
+
+https://github.com/spreti/groceristar/commit/6d27d1343230be7fb4c2ae4f7d2d301662ecf6fc
 ### Day 15: Jan 22nd, 2018
 
 **Today's Progress**: Portfolio again today!

@@ -6,7 +6,7 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/spreti 
-2.https://codepen.io/SPreti/pen/Eodqze
+2.https://codepen.io/SPreti/full/WdmqeG/
 ### Day 14: Jan 21st, 2018
 
 **Today's Progress**: Worked on porftfolio project.
@@ -14,7 +14,7 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/spreti 
-2.https://codepen.io/SPreti/pen/Eodqze
+2.https://codepen.io/SPreti/full/WdmqeG/
 ### Day 13: Jan 20th, 2018
 
 **Today's Progress**: Worked on my porfolio project again today! 
@@ -24,7 +24,7 @@ Still feeling great about my portfolio project asthetic.
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/spreti 
-2.https://codepen.io/SPreti/pen/Eodqze
+2.https://codepen.io/SPreti/full/WdmqeG/
 
 ### Day 12: Jan 19th, 2018
 
@@ -36,7 +36,7 @@ Maybe its the coffee- Did I mention I'm feeling so optimistic about this porfoli
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/spreti 
-2.https://codepen.io/SPreti/pen/Eodqze
+2.https://codepen.io/SPreti/full/WdmqeG/
 
 ### Day 11: Jan 18th, 2018
 

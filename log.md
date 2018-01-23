@@ -7,9 +7,8 @@
 **Link(s) to work**
 1. https://www.freecodecamp.org/spreti 
 2.https://codepen.io/SPreti/full/WdmqeG/
+3.https://github.com/spreti/groceristar/commit/6d27d1343230be7fb4c2ae4f7d2d301662ecf6fc
 
-
-https://github.com/spreti/groceristar/commit/6d27d1343230be7fb4c2ae4f7d2d301662ecf6fc
 ### Day 15: Jan 22nd, 2018
 
 **Today's Progress**: Portfolio again today!

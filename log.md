@@ -1,4 +1,15 @@
 # 100 Days Of Code - Log
+### Day 17: Jan 24th, 2018
+
+**Today's Progress**: Studied up on Javascript today in Pluralsight, and as well did a little css practice with shapes and div. 
+**Thoughts**: In hindsight I probably won't make another repeating pattern for shapes practice as it was a little difficult to see where my break was in the viewport but after manually counting where I was at, the div did flex correctly to drop items down as the viewport got smaller- therefore making less columns and more rows. Silverlining- I think the pen I made today will be a great practice to begin application for Javascript. 
+
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/BJebgz
+
+
 ### Day 16: Jan 23rd, 2018
 
 **Today's Progress**: I finished my porfolio today with a responsive contact form in my footer. I also spent quite some time on github just learning the lay of the land and committed not one but two contributions! Lastly and probably on par with level of excitment for my two github contributions - I STARTED JAVASCRIPT TODAY!(in Free Code Camp)

@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-### Day 18: Jan 25th, 2018
+### Day 19: Jan 26th, 2018
 **Today's Progress**: I worked more on my random div practice pen - thats what we'll call it for now. As a sidenote my pup is out of ER and finally home (yay!) so I sit here coding as she lays at my feet sleeping!  
 **Thoughts**:  So my approach was similar to yesterday, in regards to all elements being responsive, I attempted a responsive div, which is in fact so, however not centered to the page how I would like just quite yet. I also discovered the transform, both rotate and translate tags today, and as well applied css hover to quite a few images. some individually through classes and others through the id.
 

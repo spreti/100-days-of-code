@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 ### Day 18: Jan 25th, 2018
+**Today's Progress**: I worked more on my random div practice pen - thats what we'll call it for now. As a sidenote my pup is out of ER and finally home (yay!) so I sit here coding as she lays at my feet sleeping!  
+**Thoughts**:  So my approach was similar to yesterday, in regards to all elements being responsive, I attempted a responsive div, which is in fact so, however not centered to the page how I would like just quite yet. I also discovered the transform, both rotate and translate tags today, and as well applied css hover to quite a few images. some individually through classes and others through the id.
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/goNJBz?editors=1100
+
+### Day 18: Jan 25th, 2018
 **Today's Progress**: So off the cuff I did some random div practice focusing mainly on vertical alignment and did my first video embed today. It's a silly video and for the sake of transparency for anyone wondering why i'd fill a page with just images of dogs -ill put it out there that the images I used for the mock site are all images of huskies as I found out today that my husky has Addisons disease. 
 **Thoughts**: So my main focus was just code and see where I get in an hour. My work for that hour is in the codepen link below, and my secondary focus was to make everything responsive without the use of bootstrap. I think I did pretty good. 
 
@@ -7,7 +15,6 @@
 1. https://www.freecodecamp.org/spreti 
 2.https://codepen.io/SPreti/pen/goNJBz?editors=1100
 
-https://codepen.io/SPreti/pen/goNJBz?editors=1100
 ### Day 17: Jan 24th, 2018
 
 

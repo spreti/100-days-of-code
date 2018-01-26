@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
+### Day 18: Jan 25th, 2018
+**Today's Progress**: So off the cuff I did some random div practice focusing mainly on vertical alignment and did my first video embed today. It's a silly video and for the sake of transparency for anyone wondering why i'd fill a page with just images of dogs -ill put it out there that the images I used for the mock site are all images of huskies as I found out today that my husky has Addisons disease. 
+**Thoughts**: So my main focus was just code and see where I get in an hour. My work for that hour is in the codepen link below, and my secondary focus was to make everything responsive without the use of bootstrap. I think I did pretty good. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/goNJBz?editors=1100
+
+https://codepen.io/SPreti/pen/goNJBz?editors=1100
 ### Day 17: Jan 24th, 2018
+
 
 **Today's Progress**: Studied up on Javascript today in Pluralsight, and as well did a little css practice with shapes and div. 
 **Thoughts**: In hindsight I probably won't make another repeating pattern for shapes practice as it was a little difficult to see where my break was in the viewport but after manually counting where I was at, the div did flex correctly to drop items down as the viewport got smaller- therefore making less columns and more rows. Silverlining- I think the pen I made today will be a great practice to begin application for Javascript. 

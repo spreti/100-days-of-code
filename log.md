@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+
+### Day 19: Jan 27th, 2018
+**Today's Progress**: So I started a new Pen today with the intent to make a general information page and calculator for pet insurance, I thought it'd be good practice as I already understand our pet insurance plan and also already understand the variables invovled. 
+**Thoughts**: same approach as the previous days, in regards to athestic, I did want everything to be responsive so I aimed for that. I did just start jotting down variables and where the input would come from in my javascript portion as well as the equations I would eventually these numbers to appear in the container I made below the form. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/mXbEyp
+
 ### Day 19: Jan 26th, 2018
 **Today's Progress**: I worked more on my random div practice pen - thats what we'll call it for now. As a sidenote my pup is out of ER and finally home (yay!) so I sit here coding as she lays at my feet sleeping!  
 **Thoughts**:  So my approach was similar to yesterday, in regards to all elements being responsive, I attempted a responsive div, which is in fact so, however not centered to the page how I would like just quite yet. I also discovered the transform, both rotate and translate tags today, and as well applied css hover to quite a few images. some individually through classes and others through the id.

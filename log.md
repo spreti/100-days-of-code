@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 20: Jan 28th, 2018
+**Today's Progress**: worked on a tutorial called jsforcats and practiced making silly arrays in my browser of things that would never go together, and them adding them to made up functions of yellIt which switched each string into all caps and or makeMoreExciting which added five exclaimations on to the end of everything. 
+**Thoughts**: Javascript thus far has been difficult for me not so much because I can't understand what a variable or a string or an array is, but more so because it seems so abstract that I'm not quite sure where to start. I will say today felt like the deepest understanding and best application I have done of it thus far, and I think I've got more of a clear understanding on how to implement it in my form from my page yesterday. I have a feeling this Javascript road will be long and winding. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/mXbEyp
+
 ### Day 19: Jan 27th, 2018
 **Today's Progress**: So I started a new Pen today with the intent to make a general information page and calculator for pet insurance, I thought it'd be good practice as I already understand our pet insurance plan and also already understand the variables invovled. 
 **Thoughts**: same approach as the previous days, in regards to athestic, I did want everything to be responsive so I aimed for that. I did just start jotting down variables and where the input would come from in my javascript portion as well as the equations I would eventually these numbers to appear in the container I made below the form. 

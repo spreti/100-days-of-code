@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 20: Jan 28th, 2018
-**Today's Progress**: worked on a tutorial called jsforcats and practiced making silly arrays in my browser of things that would never go together, and them adding them to made up functions of yellIt which switched each string into all caps and or makeMoreExciting which added five exclaimations on to the end of everything. 
+**Today's Progress**: worked on a tutorial called jsforcats and practiced making silly arrays in my browser of things that would never go together, and them adding them to made up functions of yellIt which switched each string into all caps and or makeMoreExciting which added five exclaimations on to the end of everything. I also edited the variables and assignments that I did yesterday in my webpage under the javascript section to what I believe to be accuate after doing the tutorial today. 
 **Thoughts**: Javascript thus far has been difficult for me not so much because I can't understand what a variable or a string or an array is, but more so because it seems so abstract that I'm not quite sure where to start. I will say today felt like the deepest understanding and best application I have done of it thus far, and I think I've got more of a clear understanding on how to implement it in my form from my page yesterday. I have a feeling this Javascript road will be long and winding. 
 
 **Link(s) to work**

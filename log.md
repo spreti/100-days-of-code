@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+
+### Day 22: Jan 30th, 2018
+**Today's Progress**: I edited more of my javascript today in codepen, although it still doesnt run, maybe I am closer to getting it to run though?  Tomorrow I plan to go through some really basic examples of Javascript and I'd also like to return to free code camp to continue progress there. 
+**Thoughts**: is death by inability to learn Javascript a thing?(only kidding... kinda) 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/mXbEyp
+3.https://codecombat.com/user/spreti
 ### Day 21: Jan 29th, 2018
 **Today's Progress**: I finished watching a the second part of Kyle Simpsons Javascript for beginners talk on Pluralsight today and followed along in the console in google chrome as well as started playing some Code Combat to get more practice with Javascript. 
 **Thoughts**: I feel like I'm really struggling with Javascript application. It's like I understand in premise what I'm supposed to do but the reality of execution is beyond weird to me. The coding games help.

@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 21: Jan 29th, 2018
+**Today's Progress**: I finished watching a the second part of Kyle Simpsons Javascript for beginners talk on Pluralsight today and followed along in the console in google chrome as well as started playing some Code Combat to get more practice with Javascript. 
+**Thoughts**: I feel like I'm really struggling with Javascript application. It's like I understand in premise what I'm supposed to do but the reality of execution is beyond weird to me. The coding games help.
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/mXbEyp
+3.https://codecombat.com/user/spreti
 
 ### Day 20: Jan 28th, 2018
 **Today's Progress**: worked on a tutorial called jsforcats and practiced making silly arrays in my browser of things that would never go together, and them adding them to made up functions of yellIt which switched each string into all caps and or makeMoreExciting which added five exclaimations on to the end of everything. I also edited the variables and assignments that I did yesterday in my webpage under the javascript section to what I believe to be accuate after doing the tutorial today. 

@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
+### Day 23: Jan 31st, 2018
+**Today's Progress**: 4.5 hours of note taking and Free Code Camp challenges. I know that we're not supposed to count study time in the hour of code each day, but today I'm going to count it - see thoughts below. 
+**Thoughts**:I watched a motivational video today about the 5 second rule (not the one where you've got this grace period to pick things off the ground like food) but the one that says you have to launch yourself into the things you want to do with premeditated intention so that your decisions become actions and your actions become future decisions, and then I realized I need to take a step back and reset with JavaScript. I think I've been approaching it with some major frusturations as I have these unrealistic expectations to be able to just do it or at least hack it together much like learning advanced CSS, however the difference is and this will sound like a pretty obvious statement, is that when I learned CSS it was one of the first languages I learned, so I was really diligent about writing everything down,all of the specs of each parameter and how that would eventually link to HTML, as well as working through every example I came along. So while I still have quite a bit to learn with CSS, I at least have a solid base that allows me to fumble around with things until I eventually figure it out. Like I said I kind of realize that I got away from this with learning Javascript. I've been telling myself things like I took algebra, I can skip the assigning variables portion. So today I spent the day taking detailed notes on all things Javascript. Every example/challenge in free code camp as well as a few chapters of Kyle simpsons intro to javascript in Pluralsight. 
 
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/mXbEyp
 ### Day 22: Jan 30th, 2018
 **Today's Progress**: I edited more of my javascript today in codepen, although it still doesnt run, maybe I am closer to getting it to run though?  Tomorrow I plan to go through some really basic examples of Javascript and I'd also like to return to free code camp to continue progress there. 
 **Thoughts**: is death by inability to learn Javascript a thing?(only kidding... kinda) 

@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 26: Feb 3rd, 2018
+**Today's Progress**: worked more on codepen today! 
+**Thoughts**:Yay Javascript!  
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/mXbEyp
+
 ### Day 25: Feb 2nd, 2018
 **Today's Progress**: went back through my codepen and revised some css as well as the Javascript I wrote, what I am trying to do is take the input from the html form assign it to variables and then perform mathematical functions with it like an insurance calculator. I definitely know I am not calling the input correctly but I do think I did nail down my function and reassignment into a bill total variable correctly today (whoop!) 
 **Thoughts**:Yay Javascript!  

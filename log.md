@@ -1,4 +1,10 @@
 # 100 Days Of Code - Log
+### Day 27: Feb 4th, 2018
+**Today's Progress**: worked more on codepen today- went through my css, added what will hopefully be a semi interactive calendar that will more so provide as an example and worked with floats and clearning to ensure the layout I am thinking of. 
+**Thoughts**:  
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/mXbEyp
 ### Day 26: Feb 3rd, 2018
 **Today's Progress**: worked more on codepen today! 
 **Thoughts**:Yay Javascript!  

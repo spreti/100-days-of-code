@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 29: Feb 6th, 2018
+**Today's Progress**: worked more on Ahsoka with Addison's page.  - so far really loving the way it's turning out. 
+**Thoughts**:  
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/mXbEyp
+
+
 ### Day 28: Feb 5th, 2018
 **Today's Progress**: worked on my site for Ahsoka with Addison's more CSS today than anything else, and editing my HTML (fixing errors from previously)  
 **Thoughts**:  

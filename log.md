@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+### Day 29: Feb 7th, 2018
+**Today's Progress**: more on my Ahsoka project today, I struggled with the break in the header and positioning heading text off to the left about 3/4ths of the way down, It stays however when the page is flexed per the viewport it starts to get a little weird. 
+
+As well I will need to take a look at the button I made  and how to get that to scale to its parent div.
+
+**Thoughts**:  
+**Link(s) to work**
+1. https://www.freecodecamp.org/spreti 
+2.https://codepen.io/SPreti/pen/mXbEyp
 ### Day 29: Feb 6th, 2018
 **Today's Progress**: worked more on Ahsoka with Addison's page.  - so far really loving the way it's turning out. 
 **Thoughts**:  
